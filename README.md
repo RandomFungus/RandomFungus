@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RandomFungus
-- 👀 I’m interested in ... Airsoft
-- 🌱 I’m currently learning ... Lua
-- 💞️ I’m looking to collaborate on ... Idk gimme Ideas
-- 📫 How to reach me ...
+- 👀 I’m interested in Airsoft
+- 🌱 I’m currently learning Lua and C++
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Via Discord and others
 - ⚡ Fun fact: ...
 
 <!---

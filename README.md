@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RandomFungus
-- 👀 I’m interested in Airsoft
-- 🌱 I’m currently learning Lua and C++
+- 👀 I’m interested in Cryptography, Steganography, Ciphers, etc.
+- 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Via Discord and others
+- 📫 How to reach me: Via Discord or Reddit
 - ⚡ Fun fact: ...
 
 <!---

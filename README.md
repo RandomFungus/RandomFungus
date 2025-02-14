@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandomFungus
-- 👀 I’m interested in Cryptography, Steganography, Ciphers, etc.
-- 🌱 I’m currently learning Cryptography
+- 👀 I’m interested in "Cooking"
+- 🌱 I’m currently learning Webdevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Via Discord or Reddit
 - ⚡ Fun fact: ...

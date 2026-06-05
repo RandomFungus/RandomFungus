@@ -12,8 +12,6 @@
 
 - 🤝 I'm looking for help with **-**
 
-- 💬 Ask me about **-**
-
 - 📫 How to reach me **randomfungus420@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://aboutblank.com](https://aboutblank.com)**

@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **randomfungus420@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://aboutblank.com](https://aboutblank.com)**
+- 👨‍💻 All of my projects are available at **[https://github.com/randomfungus](https://github.com/randomfungus)**
 
 - 📝 I regularly write articles on **[https://www.reddit.com/user/P1neapple_K1ng/](https://www.reddit.com/user/P1neapple_K1ng/)**
 

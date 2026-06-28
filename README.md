@@ -2,8 +2,6 @@
 
 ### Professional Skid
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randomfungus" alt="randomfungus" /></a> </p>
-
 - 🔭 I'm currently working on **a Multitool entirely scripted in batch**
 
 - 🌱 I'm currently learning **BackEnd Development**
